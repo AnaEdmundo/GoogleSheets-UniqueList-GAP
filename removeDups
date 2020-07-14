@@ -10,3 +10,5 @@ function removeDups(array) {
  }
  return outArray;
 }
+
+var uniqueData = removeDups(yourList);  
